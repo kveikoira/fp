@@ -1,2 +1,11 @@
+/* 
+
+made by #7361, free for public use without credit
+copy+paste to CSS styles
+
+@import url('https://kveikoira.github.io/fp/setup.css'); 
+
+*/
+
 #top_bar, #fpaw_layout_top_holder, #fpaw_layout_footer, .footer_legal, #fpaw_layout_minheight, .plain_subnav, .footer_spacer, #fpaw_layout_end, #fpaw_layout_column_3, h3:first-child { display: none; }
 #fpaw_layout_column_2 { width: 97.9% !important; margin: auto; padding: 3px; }

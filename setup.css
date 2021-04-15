@@ -7,5 +7,5 @@ copy+paste to CSS styles:
 
 */
 
-#top_bar, #fpaw_layout_top_holder, #fpaw_layout_footer, .footer_legal, #fpaw_layout_minheight, .plain_subnav, .footer_spacer, #fpaw_layout_end, #fpaw_layout_column_3, h3:first-child, #investigate_content, .ui-state-highlight { display: none; }
+#top_bar, #fpaw_layout_top_holder, #fpaw_layout_footer, .footer_legal, #fpaw_layout_minheight, .plain_subnav, .footer_spacer, #fpaw_layout_end, #fpaw_layout_column_3, h3, #investigate_content, .ui-state-highlight { display: none; }
 #fpaw_layout_column_2 { width: 97.9% !important; margin: auto; padding: 3px; }

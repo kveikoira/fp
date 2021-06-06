@@ -1,0 +1,99 @@
+@import url('https://kveikoira.github.io/fp/setup.css');
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap');
+
+/* Layout by Kveikoira #7361 */
+
+* {
+ margin: 0;
+ padding: 0;
+}
+
+body {
+ background: url('https://i.ibb.co/tJZDYjw/birch-2097322.jpg') !important;
+ background-position: center top !important;
+ background-size: cover !important;
+ background-attachment: static !important;
+ background-color: #262626 !important;
+ background-blend-mode: soft-light;
+}
+
+.red-header {
+ background-image: url('https://via.placeholder.com/850x225');
+ width: 850px;
+ height: 225px;
+ margin: auto;
+}
+
+.red-links,
+.red-links a {
+ text-align: center;
+ font-family: "Special Elite", cursive;
+ font-size: 20px;
+ color: #d0d0d0 !important;
+ margin: 10px;
+ margin-top: 30px;
+ margin-bottom: 30px;
+ text-shadow: 0 0 3px #353535, 0 0 3px #353535, 0 0 3px #353535, 0 0 3px #353535, 0 0 10px #000, 0 0 10px #000;
+ text-decoration: none !important;
+}
+
+.red-links a:hover {
+ text-decoration: line-through !important;
+}
+
+.red-flex {
+ display: flex;
+ width: 850px;
+ margin: auto;
+}
+
+.red-box {
+ background: #000000ed;
+ margin: auto;
+ width: 100%;
+ max-width: 850px;
+ height: 250px;
+ color: #9d9d9d !important;
+ outline: 1px solid #0d0d0d;
+ text-align: justify;
+ font-size: 12.5px;
+ font-family: "Volkhov", serif;
+ box-shadow: 0 0 15px #000, 0 0 30px #000;
+}
+
+.red-box p {
+ color: #9d9d9d !important;
+ line-height: 1.75;
+}
+
+.red-flex .red-box {
+ flex: 1;
+}
+
+.red-box-header {
+ background: url('https://i.ibb.co/tJZDYjw/birch-2097322.jpg') !important;
+ background-position: center top !important;
+ background-size: unset !important;
+ background-attachment: static !important;
+ background-color: #843131 !important;
+ background-blend-mode: darken;
+ width: auto;
+ font-family: "Special Elite", cursive;
+ font-size: 20px;
+ color: #d0d0d0 !important;
+ padding: 8px;
+ padding-top: 12px;
+ text-shadow: 0 0 3px #000, 0 0 3px #000;
+ outline: 1px solid #0d0d0d;
+}
+
+.red-box-content {
+ height: 211px;
+ overflow: auto;
+ padding: 0;
+}
+
+.red-box-container {
+ padding-bottom: 15px;
+}
